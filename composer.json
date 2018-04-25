@@ -2,6 +2,7 @@
     "name": "crlt/unicode-utf8",
     "description": "transform unicode to utf8",
     "type": "library",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
