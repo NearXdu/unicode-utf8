@@ -2,7 +2,6 @@
     "name": "crlt/unicode-utf8",
     "description": "transform unicode to utf8",
     "type": "library",
-    "minimum-stability": "dev",
     "license": "MIT",
     "autoload": {
         "psr-4": { "Crlt\\Tools\\": "src" }
