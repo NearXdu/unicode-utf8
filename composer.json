@@ -4,6 +4,9 @@
     "type": "library",
     "minimum-stability": "dev",
     "license": "MIT",
+    "autoload": {
+        "psr-4": { "Crlt\\Tools\\": "src" }
+    },
     "authors": [
         {
             "name": "Crlt Zhang",
