@@ -1,5 +1,5 @@
 {
-    "name": "crlt_/unicode-utf8",
+    "name": "crlt/unicode-utf8",
     "description": "transform unicode to utf8",
     "type": "library",
     "license": "MIT",
