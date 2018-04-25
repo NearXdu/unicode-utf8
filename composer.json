@@ -1,0 +1,13 @@
+{
+    "name": "crlt_/unicode-utf8",
+    "description": "transform unicode to utf8",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Crlt Zhang",
+            "email": "nealse.zh@gmail.com"
+        }
+    ],
+    "require": {}
+}
